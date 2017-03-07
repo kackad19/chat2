@@ -1,0 +1,46 @@
+@charset "utf-8";
+
+#uname{ 
+color:#000;
+font-weight:bold;
+font-size:15px;
+font-family:Verdana, Geneva, sanas-serif;
+}
+
+#msg{
+ color:#000;
+ font-size:15px;
+ font-family:Georgia, "Times New Roman", Times,serif;
+}
+
+
+div#block{
+	text-align: center;
+	border-color: #000;
+}
+
+textarea {
+	width:200px; 
+	height: 120px;
+	border-color: #000;
+}
+
+input{
+	 width:100px;
+	 margin-top: 10px;
+}
+
+#click {
+	background-color: #A9A9A9;
+	margin-top: 100px;
+ border-radius: 5%;
+ border-width:2px;
+ border-style:solid;
+ border-color:#000;
+ color:#FFF;
+ padding-left:10px;
+ padding-right:10px;
+ text-decoration:none;
+
+	
+}
